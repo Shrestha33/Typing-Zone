@@ -1,0 +1,14 @@
+Ram	1	96.99
+Shyam	2	100
+Diwash	3	100
+Sita	4	100
+Sabda	5	100
+Ramu	6	100
+Flip	13	93.45
+Damu	14	100
+Sita	27.3487	82.82
+Milan	26.2908	90.56
+rakshya	36.048	95.082
+top	24.6472	100
+sfdg	24.433	100
+nishchal	17.4378	98.4127
